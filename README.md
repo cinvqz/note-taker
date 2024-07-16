@@ -10,7 +10,7 @@ This application was created to allow users to write, save and delete notes to e
     - POST
     - DELETE
 - Node
-- Render 
+- Render
 
 ## Installation
 
@@ -27,7 +27,7 @@ This application was created to allow users to write, save and delete notes to e
 
 ## Usage
 
-1. Navigate to http://localhost:3001 on your browser
+1. Navigate to https://note-taker-enbf.onrender.com 
 2. Click on "Get Started" to go to the notes page
 3. Add a new note by entering a title and the note text, then click the save button
 4. View saved notes by clicking on them in the list located on the left side
